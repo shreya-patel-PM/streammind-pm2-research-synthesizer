@@ -1,0 +1,58 @@
+INTERVIEW TRANSCRIPT — USER RESEARCH
+Topic: Subscription downgrade flow experience
+Date: May 12, 2026
+Interviewer: Sam (Researcher)
+Participant: Priya, 34, Marketing Manager, Toronto
+Duration: 22 minutes
+
+---
+
+SAM: Thanks for jumping on, Priya. Just to set context — we're talking with people who downgraded their streaming subscription in the past 60 days. Can you walk me through what was going on for you when you decided to downgrade?
+
+PRIYA: Yeah, totally. So I'd been on the Premium tier for I think over two years. And honestly the trigger was — my partner and I were doing one of those quarterly budget reviews and we were like, what are we actually paying for that we don't use? And I realized I was paying eighteen dollars a month for like, 4K and four simultaneous streams. We only have two TVs. And we don't have a 4K TV.
+
+SAM: So the value-to-cost wasn't matching up.
+
+PRIYA: It wasn't matching up. I'm not leaving, I'm just trying to spend less. That was the whole conversation in my head. I still wanted the service, I just didn't need everything that was bundled into Premium.
+
+SAM: Got it. Walk me through what happened when you tried to actually do the downgrade.
+
+PRIYA: Okay, so first — finding where to downgrade was harder than it should have been. The cancel button is super prominent, but the downgrade option was buried under like, "Manage subscription," then "Change plan." I almost gave up and just canceled, honestly.
+
+SAM: That's interesting. So you considered canceling entirely because downgrading was hard to find?
+
+PRIYA: Yeah. And I think that's actually a bigger problem than they realize. Because if I'd canceled, that's revenue gone. But I'd been a customer for two years. They could have kept me at the cheaper tier indefinitely. Instead they almost lost me because the path of least resistance was the wrong one for them.
+
+SAM: When you finally found the downgrade option, what was the experience like?
+
+PRIYA: Annoying. Genuinely annoying. They asked me — three times, I think? — if I was sure. And each time it was like, "Are you sure? You'll lose 4K!" "Are you sure? You'll only be able to watch on two devices at once!" And I'm like... yes, I'm sure, I told you twice already, those are the things I don't need. If you have to ask me three times if I'm sure, that's a problem.
+
+SAM: Did they offer you anything? A discount, a free month, anything like that?
+
+PRIYA: They offered me a discount, yeah. Like 30% off Premium for three months. Which — okay, here's where I'll be honest. I actually appreciated that they tried. Like, they recognized I was a long-time customer, they made an offer. I felt seen. But the offer wasn't going to fix my underlying problem, which is that I don't watch enough to justify Premium even at a discount.
+
+SAM: So you turned it down?
+
+PRIYA: I turned it down. But I did appreciate that they tried. I don't want to make it sound like the retention offer was bad. It was actually the only part of the flow that felt like it was designed by someone who understood why I might be leaving.
+
+SAM: Tell me about what tier you ended up on and how you've felt about it since.
+
+PRIYA: I'm on the Standard tier now. It's HD instead of 4K, two simultaneous streams instead of four, and I think there are ads on like one out of every five things? Honestly I haven't noticed. The ads are short. I'm saving like eight bucks a month and I haven't really felt the difference.
+
+SAM: That's interesting that you said you haven't noticed the ads. Is that genuinely true, or are you noticing them but not minding?
+
+PRIYA: Probably the second one. I notice them. I just don't care. They're short, they're skippable after five seconds, and they're between episodes not in the middle of them. That's fine. That's a fair trade for eight bucks.
+
+SAM: One thing I want to ask — there's a perception sometimes that if a user downgrades, they're on their way out. Like a downgrade is just a slower cancellation. Does that match your experience?
+
+PRIYA: No, not at all. I am not on my way out. I will probably be on the Standard tier for the next five years honestly. The math finally caught up to me but the value's still there at the right price. I'd be more likely to recommend the service to friends now than I was before, because I can be honest that the entry tier is fine.
+
+SAM: Last question — if you were designing this experience, what would you have changed?
+
+PRIYA: Make the downgrade option easier to find. Stop asking me three times if I'm sure — once is enough. Don't make me feel like I'm doing something wrong. I'm choosing to stay with you. The whole tone of the flow was like I was breaking up with them, and I wasn't. I was just adjusting the terms.
+
+SAM: That's really helpful. Thanks Priya.
+
+PRIYA: Yeah, no problem.
+
+[END OF TRANSCRIPT]
